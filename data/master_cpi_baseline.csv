@@ -1,0 +1,13 @@
+cpi_category,cpi_baseline_index,cpi_weight_pct,cpi_base_period,cpi_registry_source
+General CPI,214.80,100.00,Dec 2016 = 100,ESS_CPI_Master_Registry
+Food and Non-Alcoholic Beverages CPI,248.35,53.60,Dec 2016 = 100,ESS_CPI_Master_Registry
+Bread and Cereals CPI,262.10,18.40,Dec 2016 = 100,ESS_CPI_Master_Registry
+Meat CPI,231.50,4.85,Dec 2016 = 100,ESS_CPI_Master_Registry
+Milk Cheese and Eggs CPI,198.40,3.90,Dec 2016 = 100,ESS_CPI_Master_Registry
+Oils and Fats CPI,219.75,5.20,Dec 2016 = 100,ESS_CPI_Master_Registry
+Vegetables CPI,275.00,9.15,Dec 2016 = 100,ESS_CPI_Master_Registry
+Housing Water Electricity Gas and Other Fuels CPI,184.20,16.70,Dec 2016 = 100,ESS_CPI_Master_Registry
+Clothing and Footwear CPI,172.60,7.40,Dec 2016 = 100,ESS_CPI_Master_Registry
+Transport CPI,195.85,8.90,Dec 2016 = 100,ESS_CPI_Master_Registry
+Communications CPI,128.40,2.30,Dec 2016 = 100,ESS_CPI_Master_Registry
+Health CPI,166.90,3.10,Dec 2016 = 100,ESS_CPI_Master_Registry
